@@ -1,0 +1,7 @@
+title: Taco Bell Death
+description: Replaces the "Death SFX" with the Taco Bell Bell!
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: se\se000.win32.scd
